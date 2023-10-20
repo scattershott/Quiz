@@ -16,10 +16,7 @@ Welcome to **Quiz Master**, where your knowledge reigns supreme! Challenge yours
 ## 🛠️ Customization
 - **Game Version**: You have the power to customize the game version directly from the code. Tweak the questions, categories, and difficulty levels to create your own unique quizzes.
 
-```javascript
-//Customize your quiz here
-
-const questions = [
+//const questions = [
   {
     question: 'What is 2 + 2?',
     answers: [
@@ -55,3 +52,11 @@ const questions = [
 ]
 
 Feel free to modify the gameVersion object in the code to create quizzes tailored to your preferences and interests.
+
+✨ Contributing
+We welcome contributions and new quiz ideas! Fork this project, make changes, and submit a pull request. Let's make Quiz Master even more exciting!
+
+📬 Contact
+Have questions, suggestions, or want to share your favorite quiz? Reach out to us at your-email@example.com.
+
+Good luck, Quiz Master, and may your knowledge shine! 🏆
