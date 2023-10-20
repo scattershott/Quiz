@@ -3,7 +3,7 @@
 Welcome to **Quiz Master**, where your knowledge reigns supreme! Challenge yourself and others with this interactive quiz game and see who emerges as the true Quiz Master.
 
 ## 🚀 Start the Quiz Here
-[Start the Quiz](https://your-quiz-game-url.com)
+![homepage](https://github.com/scattershott/Quiz/assets/147977105/ea2a21dc-8544-4fde-9c12-4507bd95db4c)
 
 ## How to Play
 - Click the "Start" button to dive into a world of questions and answers.
@@ -11,7 +11,8 @@ Welcome to **Quiz Master**, where your knowledge reigns supreme! Challenge yours
 - Challenge your friends and family to see who's the real Quiz Master!
 
 ## 📷 Screenshot
-![Quiz Master](quiz-master-screenshot.png)
+![questionaire](https://github.com/scattershott/Quiz/assets/147977105/2762d39c-63ce-4730-844a-a09ba9d7d868)
+
 
 ## 🛠️ Customization
 - **Game Version**: You have the power to customize the game version directly from the code. Tweak the questions, categories, and difficulty levels to create your own unique quizzes.
