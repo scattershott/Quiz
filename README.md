@@ -3,7 +3,8 @@
 Welcome to **Quiz Master**, where your knowledge reigns supreme! Challenge yourself and others with this interactive quiz game and see who emerges as the true Quiz Master.
 
 ## 🚀 Start the Quiz Here
-![homepage](https://github.com/scattershott/Quiz/assets/147977105/ea2a21dc-8544-4fde-9c12-4507bd95db4c)
+
+[Start the Quiz](https://your-quiz-game-url.com)
 
 ## How to Play
 - Click the "Start" button to dive into a world of questions and answers.
@@ -11,6 +12,8 @@ Welcome to **Quiz Master**, where your knowledge reigns supreme! Challenge yours
 - Challenge your friends and family to see who's the real Quiz Master!
 
 ## 📷 Screenshot
+
+![homepage](https://github.com/scattershott/Quiz/assets/147977105/ea2a21dc-8544-4fde-9c12-4507bd95db4c)
 ![questionaire](https://github.com/scattershott/Quiz/assets/147977105/2762d39c-63ce-4730-844a-a09ba9d7d868)
 
 
